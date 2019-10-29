@@ -1,3 +1,7 @@
+import pandas as pd
+from matplotlib import pyplot as plt
+from sklearn import dataset
+
 {
  "cells": [
   {
@@ -21,6 +25,7 @@
      ]
     }
    ],
+   
    "source": [
     "from sklearn import datasets\n",
     "import pandas as pd\n",
@@ -38,6 +43,7 @@
     "print(\"accuracy score : %2.f\" % accuracy_score(y_pred,y_test))\n"
    ]
   },
+  
   {
    "cell_type": "code",
    "execution_count": null,
@@ -46,17 +52,20 @@
    "source": []
   }
  ],
+ 
  "metadata": {
   "kernelspec": {
    "display_name": "Python 3",
    "language": "python",
    "name": "python3"
   },
+  
   "language_info": {
    "codemirror_mode": {
     "name": "ipython",
     "version": 3
    },
+   
    "file_extension": ".py",
    "mimetype": "text/x-python",
    "name": "python",
@@ -65,6 +74,7 @@
    "version": "3.6.5"
   }
  },
+ 
  "nbformat": 4,
  "nbformat_minor": 2
 }
