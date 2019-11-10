@@ -1,0 +1,7 @@
+1: initialize
+2: use any clustering algithm first
+3: finding the inimal distance from every point to all the other oint in that topology
+4: find the winning weight
+5: check for the target if they match
+6: update the weights
+7: decrese the topology 
