@@ -1,0 +1,7 @@
+Learning Vector Quantization LVQ, different from Vector quantization VQ and Kohonen Self-Organizing Maps KSOM,
+basically is a competitive network which uses supervised learning.
+We may define it as a process of classifying the patterns where each output unit represents a class. 
+As it uses supervised learning,
+the network will be given a set of training patterns with known classification along with an initial distribution of the output class.
+After completing the training process,
+LVQ will classify an input vector by assigning it to the same class as that of the output unit.
