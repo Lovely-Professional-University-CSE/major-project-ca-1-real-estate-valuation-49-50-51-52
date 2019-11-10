@@ -1,0 +1,10 @@
+SOM (self organizing maps)
+1: initialize the weights
+2: from every other point you try to find the distance
+3: find the ining weight you have been searching
+4: once found you move that weight toward that topological order
+5: decrease the topology
+6: iterate it for some epochs
+
+
+______you finally get the topology that is clustered value______
