@@ -1,7 +1,9 @@
-1: initialize
-2: use any clustering algithm first
-3: finding the inimal distance from every point to all the other oint in that topology
-4: find the winning weight
-5: check for the target if they match
-6: update the weights
-7: decrese the topology 
+This is how LVQ Algo Works
+
+Step 1: initialize
+Step 2: Use any clustering algithm first which is suitable for you
+Step 3: find the minimal distance from every point to all the other point in that topology
+Step 4: find the winning weight
+Step 5: check for the target if they match
+Step 6: update the weights
+Step 7: decrease the topology 
