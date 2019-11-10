@@ -1,0 +1,7 @@
+1: Initialization of weights
+2: summations of the weights with the input
+3: add the bais
+4: pass it through the activations unction
+5: check with the target value
+6: if they are equal dont change the weight 
+7: if they are different update the weight and bais
